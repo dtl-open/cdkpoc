@@ -1,3 +1,7 @@
+# Referense to the talk
+- Slides: https://www.slideshare.net/KasunDilunika/aws-cdk-introduction
+- Talk: https://www.youtube.com/watch?v=YpETaF5McFE
+
 # Before you run
 - Fill the config/index.ts with values relevant to your AWS environment.
 - If you need to check the custom authoriser functionality, first create a cognito user pool with some appclient linked. This is to create a user to test the APIs. Otherwise, you can test the entire PoC without custom authoriser attached.
