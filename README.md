@@ -12,8 +12,6 @@ Assuming that you have created an aws profile called 'dtldev' with required priv
  * `npm run diff`    compare deployed stack with current state
  * `npm run synth`   emits the synthesized CloudFormation template
 
-# Environment varaibles required
-- AWS_ACCOUNT_NUMBER: Account number of AWS account where the resources should be created
 
 # Notes
 
