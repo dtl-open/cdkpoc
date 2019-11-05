@@ -1,0 +1,11 @@
+tests/cypress/examples
+tests/cypress/**/*.png
+tests/cypress/**/*.mp4
+*.js
+*.d.ts
+node_modules
+bin
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+!tests/cypress/**/*.js
