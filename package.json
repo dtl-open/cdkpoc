@@ -30,7 +30,7 @@
     "@aws-cdk/aws-route53-targets": "^1.6.1",
     "@aws-cdk/core": "^1.6.1",
     "aws-lambda": "^0.1.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "shelljs": "^0.8.3",
     "source-map-support": "^0.5.13"
   },
